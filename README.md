@@ -21,5 +21,5 @@ Python simple project using python programming language basic syntax
 # Built With :
 * Python
 
-You can see project video on Youtube using the link blow:
+You can see project video on Youtube using the link below:
 https://www.youtube.com/watch?v=OUPFzs5dkoo
