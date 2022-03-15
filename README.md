@@ -23,3 +23,6 @@ Python simple project using python programming language basic syntax
 
 You can see project video on Youtube using the link below:
 https://www.youtube.com/watch?v=OUPFzs5dkoo
+
+LinkedIn link below:
+https://www.linkedin.com/posts/mohamed-adel-saleh_python-programming-crud-activity-6906768357954310144-D7nl?utm_source=linkedin_share&utm_medium=member_desktop_web
